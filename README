@@ -10,9 +10,12 @@ README - readme file for FOP Assignment
 ./Assignment:
 
 scene1.py scene2.py scene3.py
-Assignment: We created a 2-D array of the objects to show 3 different scenarios of stage show. We used objects to represent stage, lights, smoke machine, Props choreography. We used loop function to add choreography to the stage. We used an image from external source to add a backdrop. 
+Assignment: We created a 2-D array of the objects to show 3 different scenarios of stage show.
+We used objects to represent stage, lights, smoke machine, Props choreography. 
+We used loop function to add choreography to the stage. We used an image from external source to add a backdrop. 
 
 
+you can run the code using python3 scene1.py scene2.py scene3.py
 
 
 
@@ -20,4 +23,4 @@ Assignment: We created a 2-D array of the objects to show 3 different scenarios 
 none
 
 ## Version information
-<29/05/2023> - Assignment.py  program
+<29/05/2023> - 
